@@ -1,4 +1,3 @@
-/* Chapitre 2 : Les Composants */
 import { Pokemon } from './pokemon';
   
 export const POKEMONS: Pokemon[] = [
