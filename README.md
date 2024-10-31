@@ -1,27 +1,79 @@
-# PokemonApp
+# Projet Pokédex avec Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.11.
+Ce projet est un **Pokédex** développé en Angular. Il fait partie de ma formation autodidacte sur cette technologie très demandée, que je souhaite maîtriser en raison de sa robustesse et de sa capacité à gérer des projets de grande ampleur. J'ai choisi de suivre le tutoriel de **Simon Dieny** ([lien vers le tutoriel](https://www.youtube.com/watch?v=DTIYVffhJuU&t=31644s)) pour m'aider à mieux comprendre Angular et à développer une application complète.
 
-## Development server
+Je continuerai à améliorer ce projet sur mon temps libre, avec l'objectif de le déployer sur une page web une fois qu'il sera suffisamment complet.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
+### Fonctionnalités
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Affichage d'une liste de Pokémon avec leurs caractéristiques principales.
+- Sélection d'un Pokémon pour afficher des détails supplémentaires.
+- Utilisation de **Directives** pour personnaliser les éléments de l'interface.
+- Application de **pipes** pour le formatage des données.
+- Navigation dynamique avec le **Router Angular**.
 
-## Build
+### Technologies utilisées
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- **Angular** (version 17)
+- **TypeScript**
+- **HTML / CSS**
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Captures d'écran
 
-## Running end-to-end tests
+![Pokemon App Screeshot 1](https://github.com/user-attachments/assets/af76500d-d3c8-4753-85c8-cf9f8af5c60c)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+---
 
-## Further help
+## Objectifs futurs
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- **Ajouter de nouvelles fonctionnalités** comme la recherche et le filtrage des Pokémon.
+- **Améliorer l'interface utilisateur** pour une meilleure expérience utilisateur.
+- **Déployer l'application** en ligne pour y accéder depuis n'importe où.
+- **Intégrer un backend avec Node.js et Express** pour gérer les données des Pokémon.
+
+
+---
+
+ # --- English Version ---
+
+## Angular Pokédex Project
+
+This project is a **Pokédex** built with Angular. It's part of my self-study to master this highly sought-after technology, which I’m particularly interested in for its robustness and suitability for large-scale projects. I am following **Simon Dieny's tutorial** ([tutorial link](https://www.youtube.com/watch?v=DTIYVffhJuU&t=31644s)) to deepen my understanding of Angular by building a full-fledged application.
+
+I plan to continue enhancing this project in my spare time, with the ultimate goal of deploying it as a web application.
+
+---
+
+### Features
+
+- Display a list of Pokémon with key characteristics.
+- Select a Pokémon to view additional details.
+- Use of **Directives** to customize UI elements.
+- Application of **pipes** for data formatting.
+- Dynamic navigation with **Angular Router**.
+
+### Technologies Used
+
+- **Angular** (version 17)
+- **TypeScript**
+- **HTML / CSS**
+
+---
+
+### Screenshots
+
+![Pokemon App Screeshot 1](https://github.com/user-attachments/assets/af76500d-d3c8-4753-85c8-cf9f8af5c60c)
+
+
+---
+
+### Future Goals
+
+- **Add new features** such as Pokémon search and filtering.
+- **Improve the UI** for a better user experience.
+- **Deploy the application** online to make it accessible from anywhere.
+- **Integrate a backend with Node.js and Express** to manage Pokémon data.
